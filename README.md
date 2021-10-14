@@ -8,7 +8,7 @@ In 2019, Dr. Mathiason was appointed by Jernkontoret for delivering texts on the
 
 Keywords: “Complex systems, Analytics, Machine Learning”
 
-Web: www.mathiason.se / www.his.se/matg
+Web: www.mathiason.se | www.his.se/matg
 
 <!---
 
