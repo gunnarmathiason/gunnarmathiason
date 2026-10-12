@@ -1,6 +1,10 @@
 Associate Professor in Computer Science, with a research background in analysis of complex systems, distributed systems and databases, and applied ML.
 
-Gunnar Mathiason received his PhD in Computer Science in 2010 from Linköping University (Sweden). He joined University of Skövde (Sweden) in 2010. His main focus is the analysis and modelling of complex industrial systems using applied AI; and AI algorithm development. Based on a strong industrial computer science and real-time systems background with 14 years in the SKF group, he has since 2017 been granted and lead several industrial research collaboration projects with academia and industry with the aim of using AI for revealing unknown interactions, finding complex correlations, and propose system refinements. He has served as journal reviewer and national funding application reviewer. Gunnar is a frequent invited speaker and he has served on multiple PhD Thesis committees. He served as Division Chair between 2011-2017 and as the Director of the Industrial Research School IPSI for two years.
+
+Gunnar Mathiason received his PhD in Computer Science in 2010 from Linköping University, Sweden. He joined University of Skövde, Sweden, in 2010 and became Associate Professor in 2025. His main research focus is the analysis and modelling of complex systems using applied AI, and AI algorithm development. Based on a industrial real-time systems development background in the SKF group, he has been granted and lead several academic-industrial research collaboration projects since 2017, typically with the aim of using AI for system modelling, such as finding complex correlations for production optimisation. He has served as journal and research funding application reviewer. Gunnar is a frequent invited speaker and has served on several PhD Thesis committees. He served as University Division Chair between 2011-2017 and as the Director of the Industrial Research School IPSI for two years.
+
+Prof. Mathiason is an IEEE member since 2012 and became IEEE Senior Member in 2024. He has been adjunct member of Jernkontoret’s Board of Digitalization since 2019.
+
 
 Keywords: “Complex systems, Analytics, Machine Learning”
 
